@@ -4,9 +4,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on nothing, i am a student
-- 🌱 I’m currently learning c language
-- 👯 I’m looking to collaborate on none sadly i have no exp :(
-- 🤔 I’m looking for help with learning
+- 🌱 I’m open to know more
+- 👯 I’m looking to collaborate to improve my knowledge 
+- 🤔 Idk
 - 💬 Ask me about my hobbies
 - 📫 How to reach me: my instagram and mail
 
